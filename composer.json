@@ -1,0 +1,27 @@
+{
+    "name": "pith-front/pith-pack-jquery",
+    "description": "Pack jQuery for Pith",
+    "authors": [
+        {
+            "name": "Ian Maurmann",
+            "role": "Developer"
+        }
+    ],
+    "license": "MPL-2.0",
+    "require": {
+        "php": "^8.2",
+        "ext-gd": "*",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-readline": "*",
+        "pith/base": "^0.2.0",
+        "pith/workflow-elements": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PithFront\\PithPackJquery\\": [
+                "src/jquery-resource-pack/"
+            ]
+        }
+    }
+}
