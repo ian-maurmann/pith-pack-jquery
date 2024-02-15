@@ -7,7 +7,7 @@
             "role": "Developer"
         }
     ],
-    "license": "MPL-2.0",
+    "license": "MIT",
     "require": {
         "php": "^8.2",
         "ext-gd": "*",
