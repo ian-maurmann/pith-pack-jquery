@@ -66,6 +66,12 @@ The legal info below was current at the time of writing. Future/Newer versions m
 - Copyright (c) OpenJS Foundation and other contributors. 
 - Site: https://jquery.com/
 
+### Ian's jQuery Toolbox
+- Ian's jQuery Toolbox
+- MIT license
+- Copyright (c) Ian Maurmann
+- Link: https://github.com/ian-maurmann/ians-jquery-toolbox
+
 ### pith-pack-jquery
 - pith-pack-jquery
 - MIT license *(Matching the included jQuery and Sizzle.js)*
