@@ -53,7 +53,6 @@ To add jQuery in HTML, do:
 
 The legal info below was current at the time of writing. Future/Newer versions may be licensed or copyrighted differently
 
-
 ### Sizzle.js
 - Sizzle.js *(included inside jQuery)*
 - MIT License, with exception for linked node modules being licensed separately. 
@@ -66,11 +65,22 @@ The legal info below was current at the time of writing. Future/Newer versions m
 - Copyright (c) OpenJS Foundation and other contributors. 
 - Site: https://jquery.com/
 
+### jQuery 3.7.1
+- jQuery 3.7.1 *(included inside pith-pack-jquery)*
+- Released under the MIT license. *(Also Includes Sizzle.js https://sizzlejs.com/)*
+- Copyright (c) OpenJS Foundation and other contributors.
+- Site: https://jquery.com/
+
 ### Ian's jQuery Toolbox
 - Ian's jQuery Toolbox
 - MIT license
 - Copyright (c) Ian Maurmann
 - Link: https://github.com/ian-maurmann/ians-jquery-toolbox
+
+### jQuery 4.0.0-beta
+- jQuery 4 Beta
+- Copyright (c) OpenJS Foundation and other contributors.
+- Site: https://jquery.com/
 
 ### pith-pack-jquery
 - pith-pack-jquery
